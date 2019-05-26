@@ -1,0 +1,159 @@
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #d9dadb;
+  font-family: 'Raleway', sans-serif; }
+
+header {
+  background-color: #004fa7;
+  margin: 0;
+  padding: 15px 30px 70px;
+  text-align: center; }
+  header .text {
+    width: 60%;
+    margin: auto;
+    /* Extra Small */
+    /* Small */
+    /* Medium */
+    /* Large  */ }
+    @media (max-width: 575.98px) {
+      header .text {
+        width: 85%; } }
+    @media (min-width: 576px) and (max-width: 767.98px) {
+      header .text {
+        width: 80%; } }
+    @media (min-width: 768px) and (max-width: 991.98px) {
+      header .text {
+        width: 75%; } }
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+      header .text {
+        width: 70%; } }
+  header h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f7f938;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+    /* Extra Small */
+    /* Small */
+    /* Medium */
+    /* Large  */ }
+    @media (max-width: 575.98px) {
+      header h1 {
+        font-size: 27px; } }
+    @media (min-width: 576px) and (max-width: 767.98px) {
+      header h1 {
+        font-size: 30px; } }
+    @media (min-width: 768px) and (max-width: 991.98px) {
+      header h1 {
+        font-size: 35px; } }
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+      header h1 {
+        font-size: 42px; } }
+  header p {
+    color: #fff;
+    font-size: 38px;
+    line-height: 45px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    /* Extra Small */
+    /* Small */
+    /* Medium */
+    /* Large  */ }
+    @media (max-width: 575.98px) {
+      header p {
+        font-size: 20px;
+        line-height: 30px; } }
+    @media (min-width: 576px) and (max-width: 767.98px) {
+      header p {
+        font-size: 20px;
+        line-height: 30px; } }
+    @media (min-width: 768px) and (max-width: 991.98px) {
+      header p {
+        font-size: 27px;
+        line-height: 37px; } }
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+      header p {
+        font-size: 35px;
+        line-height: 43px; } }
+
+.discover {
+  width: 50%;
+  margin: auto;
+  padding: 25px 50px 37px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: -50px;
+  overflow: hidden;
+  /* Extra Small */
+  /* Small */
+  /* Medium */
+  /* Large  */ }
+  @media (max-width: 575.98px) {
+    .discover {
+      width: 65%; } }
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    .discover {
+      width: 65%; } }
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .discover {
+      width: 60%; } }
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    .discover {
+      width: 55%; } }
+  .discover h2 {
+    text-align: center;
+    margin: 0 0 30px;
+    font-size: 30px;
+    line-height: 40px;
+    /* Extra Small */
+    /* Small */
+    /* Medium */
+    /* Large  */ }
+    @media (max-width: 575.98px) {
+      .discover h2 {
+        font-size: 20px;
+        line-height: 30px; } }
+    @media (min-width: 576px) and (max-width: 767.98px) {
+      .discover h2 {
+        font-size: 20px;
+        line-height: 30px; } }
+    @media (min-width: 768px) and (max-width: 991.98px) {
+      .discover h2 {
+        font-size: 25px;
+        line-height: 35px; } }
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+      .discover h2 {
+        font-size: 27px;
+        line-height: 37px; } }
+  .discover form .quiz {
+    padding: 20px;
+    background-color: #004fa7;
+    margin: 20px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: capitalize;
+    /* Extra Small */
+    /* Small */
+    /* Medium */
+    /* Large  */ }
+    @media (max-width: 575.98px) {
+      .discover form .quiz {
+        font-size: 15px; } }
+    @media (min-width: 576px) and (max-width: 767.98px) {
+      .discover form .quiz {
+        font-size: 15px; } }
+    @media (min-width: 768px) and (max-width: 991.98px) {
+      .discover form .quiz {
+        font-size: 16px; } }
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+      .discover form .quiz {
+        font-size: 17px; } }
+
+/*# sourceMappingURL=style.css.map */
