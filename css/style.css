@@ -95,10 +95,11 @@ header {
   /* Large  */ }
   @media (max-width: 575.98px) {
     .discover {
-      width: 65%; } }
+      width: 70%;
+      padding: 25px 30px 37px; } }
   @media (min-width: 576px) and (max-width: 767.98px) {
     .discover {
-      width: 65%; } }
+      width: 70%; } }
   @media (min-width: 768px) and (max-width: 991.98px) {
     .discover {
       width: 60%; } }
@@ -145,15 +146,20 @@ header {
     /* Large  */ }
     @media (max-width: 575.98px) {
       .discover form .quiz {
-        font-size: 15px; } }
+        font-size: 14px;
+        margin: 20px 0; } }
     @media (min-width: 576px) and (max-width: 767.98px) {
       .discover form .quiz {
-        font-size: 15px; } }
+        font-size: 15px;
+        margin: 20px 0; } }
     @media (min-width: 768px) and (max-width: 991.98px) {
       .discover form .quiz {
-        font-size: 16px; } }
+        font-size: 16px;
+        margin: 20px 0; } }
     @media (min-width: 992px) and (max-width: 1199.98px) {
       .discover form .quiz {
         font-size: 17px; } }
+    .discover form .quiz label {
+      cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
